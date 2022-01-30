@@ -1,10 +1,7 @@
 # Case 2 - Mapper using standard input and output
-# Easy to test locally with Bash
-
-
+# Easy to test locally in the terminal
 
 import sys 
-
 
 # iterate through each line provided via standard input
 for line in sys.stdin:
@@ -13,5 +10,5 @@ for line in sys.stdin:
     date, time,store, department, cost, paymentType = datalist
 
     # print intermediate key-value pairs to standard output
-    print(store + "\t" + cost + "\n")
+    print(store,"\t",cost)
 

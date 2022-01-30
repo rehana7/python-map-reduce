@@ -7,7 +7,7 @@ thisKey = ""
 thisValue = 0.0
 
 for line in sys.stdin:
-  datalist = line.strip().split('\t')
+  datalist = line.strip().split(',')
   if (len(datalist) == 2) : 
     store, amount = datalist
 

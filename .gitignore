@@ -1,7 +1,14 @@
+# List folders and files to NOT commit
+
 .vscode/*
 .vscode/settings.json
 .vscode/tasks.json
 .vscode/launch.json
 .vscode/extensions.json
 *.code-workspace
+*.txt
 
+# Exclamation means include these even if *.txt is ignored above
+
+!part.txt
+!puchases.txt

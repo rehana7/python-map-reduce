@@ -15,7 +15,7 @@ head -10 o.txt
 
 ## Challenge
 
-1. What kind of words are most common? 
-2. Do these help determine the main idea?
+1. What kind of words are most common in a given corpus (text collection), for example, Romeo & Juliet? 
+2. Do the most common words help determine the main idea?
 3. Google 'stopwords'.
 4. Could you update the process to remove all stopwords to get a better understanding? 

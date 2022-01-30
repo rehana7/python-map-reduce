@@ -2,9 +2,23 @@
 
 Basic piping introduction and concepts needed in preparation for working with big data solutions.
 
+## Big Data Processing Skills
+
+1. Understand how to pipe source data into mapper.
+2. Understsand how to pipe mapper output into (temporary) sort.
+3. Understand how to pipe sorted mapper output key-value pairs into reducer.
+4. Understand how to redirect output to file (sink) containing valuable information. 
+
+## Outcomes
+
+1. Understand value of map() and reduce() in big data. 
+2. Chain together processes (e.g. multiple MR jobs)
+3. Use big data processing to get the main idea from a large text corpus.
+4. Understand functional programming approaches and reasons. 
+5. Understand challenges of writing code that can be distributed and processed concurrently. 
+
 ## Requirements
 
-- Install Chocolatey, the Windows package manager
 - Install the Miniconda 3 version for Python + common packages
 - Install Visual Studio Code for text editing
 

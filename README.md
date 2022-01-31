@@ -58,6 +58,18 @@ cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py > out.txt
 
 ```
 
+Anaconda Prompt commands:
+
+```
+type part.txt
+type part.txt | python 21mapper.py
+type part.txt | python 21mapper.py | sort
+type part.txt | python 21mapper.py | sort  | python 22reducer.py
+type part.txt | python 21mapper.py | sort  | python 22reducer.py > o.txt
+type purchases.txt | python 21mapper.py | sort  | python 22reducer.py > out.txt
+
+```
+
 ## Challenge
 
 How many times was each paymentType used?

@@ -4,7 +4,7 @@
 import sys
 
 thisKey = ""
-thisValue = 0.0
+thisValue = 0
 
 for line in sys.stdin:
   datalist = line.strip().split('\t')
@@ -18,7 +18,7 @@ for line in sys.stdin:
 
       # start over for each new key
       thisKey = paymentType 
-      thisValue = 0.0
+      thisValue = 0
   
     # apply the aggregation function
     thisValue  = thisValue + 1

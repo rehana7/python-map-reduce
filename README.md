@@ -1,5 +1,10 @@
 # Python Map Reduce
 
+## Big Data Story
+
+The result data consists of 22 records with Country and Population. It is observed the China is in the top place. 
+I used excel to chart the obtained data.
+
 Generated the chart comparing the population of different countries , which is generated from a dataset.
 
 ![image](https://user-images.githubusercontent.com/89412687/152241379-ea500b27-8bfe-444f-b1e2-a055b55ab7ac.png)

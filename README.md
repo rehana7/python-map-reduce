@@ -1,5 +1,10 @@
 # Python Map Reduce
 
+
+![image](https://user-images.githubusercontent.com/89412687/152241006-9ea0d929-83e4-4e62-a355-31bb03f49470.png)
+
+
+
 Basic piping introduction and concepts needed in preparation for working with big data solutions.
 
 ## Big Data Processing Skills

@@ -1,7 +1,8 @@
 # Python Map Reduce
 
+Generated the chart comparing the population of different countries , which is generated from a dataset.
 
-![image](https://user-images.githubusercontent.com/89412687/152241006-9ea0d929-83e4-4e62-a355-31bb03f49470.png)
+![image](https://user-images.githubusercontent.com/89412687/152241379-ea500b27-8bfe-444f-b1e2-a055b55ab7ac.png)
 
 
 
